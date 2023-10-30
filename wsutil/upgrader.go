@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/gobwas/ws"
+	"github.com/sagernet/ws"
 )
 
 // DebugUpgrader is a wrapper around ws.Upgrader. It tracks I/O of a

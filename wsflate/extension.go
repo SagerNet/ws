@@ -4,7 +4,7 @@ import (
 	"bytes"
 
 	"github.com/gobwas/httphead"
-	"github.com/gobwas/ws"
+	"github.com/sagernet/ws"
 )
 
 // Extension contains logic of compression extension parameters negotiation

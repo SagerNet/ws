@@ -1,6 +1,6 @@
 package wsutil
 
-import "github.com/gobwas/ws"
+import "github.com/sagernet/ws"
 
 // RecvExtension is an interface for clearing fragment header RSV bits.
 type RecvExtension interface {
